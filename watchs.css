@@ -1,0 +1,33 @@
+* {
+    margin-bottom: 8px;
+}
+#others{
+    display: flex;
+    justify-content: flex-end;
+}
+#change{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#watches{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#space{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+#space{
+    display: grid;
+    grid-template-columns: 10px 10px 10px ;
+   
+}
+#watches{
+    display: grid;
+   grid-template-columns: 500px 500px 500px;
+}
